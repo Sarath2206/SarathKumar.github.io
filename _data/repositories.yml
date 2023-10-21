@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Sarath2206
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Sarath2206/COVID-19-World-Vaccine-Data-Analysis
+  - Sarath2206/Retinal-Disease-Classification 
